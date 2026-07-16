@@ -353,13 +353,13 @@ It is recommended to always use a modern renderer on Windows 8/10/11, such as TS
     <value>Execution Complete</value>
   </data>
   <data name="Constants_GameName" xml:space="preserve">
-    <value>Mental Omega 3.3.6</value>
+    <value>CnCNet YR</value>
   </data>
   <data name="Constants_AuthorName" xml:space="preserve">
     <value>SadPencil</value>
   </data>
   <data name="Constants_AppName" xml:space="preserve">
-    <value>Register for Mental Omega 3.3.6</value>
+    <value>Diagnostic Tool for CnCNet YR</value>
   </data>
   <data name="MainWindow_GitHubUrlButton" xml:space="preserve">
     <value>View on GitHub</value>
