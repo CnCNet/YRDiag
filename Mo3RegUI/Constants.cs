@@ -10,8 +10,8 @@ namespace Mo3RegUI
         public static string AppName => TextResource.Constants_AppName;
         public const string EnglishAppName = "Diagnostic Tool for CnCNet YR";
 
-        public const string Version = "v2.5.0";
-        public const string AssemblyVersion = "2.5.0.0";
+        public const string Version = "v2.5.1";
+        public const string AssemblyVersion = "2.5.1.0";
 
         public const string CopyrightYearFrom = "2019";
         public const string CopyrightYearTo = "2026";
@@ -36,6 +36,7 @@ namespace Mo3RegUI
         public const string CnCDDrawDllName = "cnc-ddraw.dll";
         public const string CnCDDrawIniName = "cnc-ddraw.ini";
         public const bool LauncherExeDpiUnaware = false;
+        public const bool ExeRunAsAdmin = true;
 
         public const bool RequireBlowfishRegistration = false; // No need for Phobos
         public const bool SkipNetworkInterfaceCheck = true; // Not necessary for client version 2.12.18 or later.
