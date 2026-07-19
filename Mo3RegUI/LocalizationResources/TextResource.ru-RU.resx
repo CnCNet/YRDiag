@@ -317,7 +317,7 @@
     <value>XNA Framework 4.0 не установлен.</value>
   </data>
   <data name="SpeakerNumTask_Description" xml:space="preserve">
-    <value>Проверка аудиоустройств</value>
+    <value>Проверка устройств вывода звука</value>
   </data>
   <data name="SpeakerNumTask_NoAudioDevice" xml:space="preserve">
     <value>В текущей системе отсутствует устройство вывода звука. Пожалуйста, подключите наушники или динамики перед запуском игры, иначе игра может завершиться с ошибкой.</value>
