@@ -172,7 +172,7 @@
     <value>{0} запись реестра корректна.</value>
   </data>
   <data name="DDrawDLLTask_ExcludeFromKnownDllsWrongType" xml:space="preserve">
-    <value>ExcludeFromKnownDlls должен быть типа {0}, но по факту он типа {1}.</value>
+    <value>ExcludeFromKnownDlls должен быть типа {0}, но фактически он типа {1}.</value>
   </data>
   <data name="DDrawDLLTask_AddedToExcludeFromKnownDlls" xml:space="preserve">
     <value>Успешно добавлено {0} в ExcludeFromKnownDlls.</value>
