@@ -136,7 +136,7 @@
     <value>Версия Windows слишком старая. Эта возможность недоступна.</value>
   </data>
   <data name="Task_ProcessExitCodeFailure" xml:space="preserve">
-    <value>Процесс вернул код завершения {0}. Выполнение не удалось.</value>
+    <value>Процесс завершился с кодом {0}. Выполнение не удалось.</value>
   </data>
   <data name="BasicInfoTask_Description" xml:space="preserve">
     <value>Проверка базовой информации о системе</value>
