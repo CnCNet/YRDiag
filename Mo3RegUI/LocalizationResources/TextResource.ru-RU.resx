@@ -163,7 +163,7 @@
     <value>Настройка программной совместимости</value>
   </data>
   <data name="DDrawDLLTask_Description" xml:space="preserve">
-    <value>Проверка записи реестра насчёт рендера</value>
+    <value>Проверка записи реестра отрисовщика</value>
   </data>
   <data name="DDrawDLLTask_RegistryEntryAbnormal" xml:space="preserve">
     <value>{0} запись реестра некорректна. {0} не должно быть в KnownDLLs.</value>
