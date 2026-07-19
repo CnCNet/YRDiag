@@ -274,13 +274,13 @@
     <value>Удаление устаревших файлов</value>
   </data>
   <data name="RendererTask_Description" xml:space="preserve">
-    <value>Настройка рендера</value>
+    <value>Установка отрисовщика</value>
   </data>
   <data name="RendererTask_SetToCnCDDraw" xml:space="preserve">
-    <value>Настроен рендерер CnC-DDraw.</value>
+    <value>Установлен отрисовщик CnC-DDraw.</value>
   </data>
   <data name="RendererTask_DeploymentError" xml:space="preserve">
-    <value>При настройке рендерера возникла проблема. {0}</value>
+    <value>При развёртывании отрисовщика возникла проблема. {0}</value>
   </data>
   <data name="RendererTask_NoRenderer" xml:space="preserve">
     <value>Рендерер не настроен.</value>
