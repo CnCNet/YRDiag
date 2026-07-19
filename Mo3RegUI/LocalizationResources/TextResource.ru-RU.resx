@@ -344,7 +344,7 @@
     <value>Проверка Xbox Game Bar</value>
   </data>
   <data name="XboxGameBarTask_GameBarEnabled" xml:space="preserve">
-    <value>Game Bar включён, что может делать определённые зоны игры некликабельными на некоторых компьютерах с определёнными рендерами. Пожалуйста, найдите соответствующую настройку по пути Start Menu → Settings → Gaming → Xbox Game Bar и отключите игровую панель.</value>
+    <value>Game Bar включён, что может делать определённые зоны игры некликабельными на некоторых компьютерах с определёнными отрисовщиками. Пожалуйста, найдите соответствующую настройку по пути Start Menu → Settings → Gaming → Xbox Game Bar и отключите игровую панель.</value>
   </data>
   <data name="Program_Execution_Complete_Message" xml:space="preserve">
     <value>Выполнение завершено. Перед тем как закрыть это окно, внимательно ознакомьтесь с предупреждениями и ошибками, выделенными тёмно-красным цветом.</value>
