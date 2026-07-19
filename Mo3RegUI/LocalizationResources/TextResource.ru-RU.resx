@@ -160,7 +160,7 @@
     <value>Discord is not disabled.</value>
   </data>
   <data name="CompatibilitySettingTask_Description" xml:space="preserve">
-    <value>Настройка совместимости программ</value>
+    <value>Настройка программной совместимости</value>
   </data>
   <data name="DDrawDLLTask_Description" xml:space="preserve">
     <value>Проверка записи реестра насчёт рендера</value>
