@@ -130,7 +130,7 @@
     <value>Внимание</value>
   </data>
   <data name="MainWindow_Closing_Warning_Message" xml:space="preserve">
-    <value>{0} занимается настройкой совместимости и параметров игры и ещё не завершил работу. Вы действительно хотите прервать процесс?</value>
+    <value>{0} настраивает совместимость и параметры игры, и ещё не завершил работу. Вы действительно хотите прервать процесс?</value>
   </data>
   <data name="Task_OsVersionTooLow_NoFeature" xml:space="preserve">
     <value>Версия Windows слишком старая. Эта фича недоступна.</value>
