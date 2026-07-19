@@ -187,7 +187,7 @@
     <value>Проверка страницы кодировки ANSI</value>
   </data>
   <data name="EncodingCheckTask_Utf8Warning" xml:space="preserve">
-    <value>Текущая страница кодировки ANSI - это UTF-8. Это правильная настройка, однако, к сожалению, китайские иероглифы не смогут отправляться правильно в Red Alert 2, а инструменты наподобие редактора карт не смогут полностью отображать названия не на латинице. Кроме того, это один из факторов, влияющих на появление проблем со смещением и наложением кнопок в интерфейсе игрового меню при высоком разрешении экрана (DPI).</value>
+    <value>Текущая страница кодировки ANSI - UTF-8. Это хорошая практика, однако, к сожалению, китайские символы не смогут быть введены как обычно в Red Alert 2, а такие компоненты, как редактор карт, не смогут полностью отображать названия не на латинице. Кроме того, это один из факторов, влияющих на появление проблем со смещением и наложением кнопок в интерфейсе игрового меню при высоком коэффициенте масштабирования экрана (DPI).</value>
   </data>
   <data name="FalsePositiveTask_Description" xml:space="preserve">
     <value>Проверка игровых файлов (приблизительная)</value>
@@ -286,20 +286,20 @@
     <value>Отрисовщик не будет устанавлен.</value>
   </data>
   <data name="RendererTask_Hint" xml:space="preserve">
-    <value>Подсказка: При необходимости настройки рендерера можно изменить непосредственно в клиенте {0}.
-В Windows 8/10/11 рекомендуется всегда использовать современный рендерер, например TS-DDraw или CnC-DDraw.</value>
+    <value>Подсказка: При необходимости настройки отрисовщика можно изменить непосредственно в клиенте {0}.
+В Windows 8/10/11 рекомендуется всегда использовать современный отрисовщик, например TS-DDraw или CnC-DDraw.</value>
   </data>
   <data name="ResolutionTask_Description" xml:space="preserve">
-    <value>Выборка разрешения</value>
+    <value>Установка разрешения</value>
   </data>
   <data name="ResolutionTask_DesktopResolution" xml:space="preserve">
-    <value>Разрешение рабочего стола: {0}×{1}.</value>
+    <value>Обнаружено разрешение рабочего стола: {0}×{1}.</value>
   </data>
   <data name="ResolutionTask_SetGameResolution" xml:space="preserve">
     <value>Игровое разрешение выставлено на {0}×{1}.</value>
   </data>
   <data name="RuntimeComponentTask_Description" xml:space="preserve">
-    <value>Проверка компонент .NET Runtime</value>
+    <value>Проверка компонентов сред выполнения</value>
   </data>
   <data name="RuntimeComponentTask_DotNet4NotInstalled" xml:space="preserve">
     <value>.NET Framework 4 не установлен.</value>
