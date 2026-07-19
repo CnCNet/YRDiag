@@ -139,7 +139,7 @@
     <value>Процесс завершился с кодом {0}. Выполнение не удалось.</value>
   </data>
   <data name="BasicInfoTask_Description" xml:space="preserve">
-    <value>Проверка базовой информации о системе</value>
+    <value>Проверка базовой системной информации</value>
   </data>
   <data name="BasicInfoTask_OperatingSystem" xml:space="preserve">
     <value>Операционная система: {0} {1}</value>
