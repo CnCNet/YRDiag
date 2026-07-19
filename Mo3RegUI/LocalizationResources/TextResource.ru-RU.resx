@@ -283,7 +283,7 @@
     <value>При развёртывании отрисовщика возникла проблема. {0}</value>
   </data>
   <data name="RendererTask_NoRenderer" xml:space="preserve">
-    <value>Рендерер не настроен.</value>
+    <value>Отрисовщик не будет устанавлен.</value>
   </data>
   <data name="RendererTask_Hint" xml:space="preserve">
     <value>Подсказка: При необходимости настройки рендерера можно изменить непосредственно в клиенте {0}.
