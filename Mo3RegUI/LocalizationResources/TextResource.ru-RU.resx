@@ -133,7 +133,7 @@
     <value>{0} настраивает совместимость и параметры игры, и ещё не завершил работу. Вы действительно хотите прервать процесс?</value>
   </data>
   <data name="Task_OsVersionTooLow_NoFeature" xml:space="preserve">
-    <value>Версия Windows слишком старая. Эта фича недоступна.</value>
+    <value>Версия Windows слишком старая. Эта возможность недоступна.</value>
   </data>
   <data name="Task_ProcessExitCodeFailure" xml:space="preserve">
     <value>Процесс вернул код завершения {0}. Выполнение не удалось.</value>
