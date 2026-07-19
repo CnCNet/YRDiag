@@ -202,7 +202,7 @@
     <value>Версия Windows слишком старая. Пожалуйста, настройте Брандмауэр Windows вручную.</value>
   </data>
   <data name="ClientVolumeTask_Description" xml:space="preserve">
-    <value>Проверка звука</value>
+    <value>Проверка громкости</value>
   </data>
   <data name="ForegroundLockTimeoutTask_Description" xml:space="preserve">
     <value>Проверка таймаута блокировки переднего плана</value>
