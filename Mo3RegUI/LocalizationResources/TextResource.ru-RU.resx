@@ -332,7 +332,7 @@
     <value>Выполнение завершено.</value>
   </data>
   <data name="UserNameTask_Description" xml:space="preserve">
-    <value>Настройка игрового никнейма</value>
+    <value>Установка имени игрока</value>
   </data>
   <data name="UserNameTask_NonAsciiUsername" xml:space="preserve">
     <value>Примечание: текущий ник игрока "{0}" содержит символы, не входящие в ASCII. Если никнейм не содержит ни одного символа ASCII, такие расширения игрового движка, как Ares 3.0, дадут сбой.</value>
