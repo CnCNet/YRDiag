@@ -323,7 +323,7 @@
     <value>В текущей системе отсутствует устройство вывода звука. Пожалуйста, подключите наушники или динамики перед запуском игры, иначе игра может завершиться с ошибкой.</value>
   </data>
   <data name="SpeakerNumTask_AudioDevicesFound" xml:space="preserve">
-    <value>Обнаружено {0} аудиоустройств.</value>
+    <value>Обнаружено {0} аудиоустройств(о).</value>
   </data>
   <data name="TaskManager_ExecutionFailed" xml:space="preserve">
     <value>Выполнение завершилось ошибкой: {0}</value>
