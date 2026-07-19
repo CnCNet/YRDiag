@@ -196,7 +196,7 @@
     <value>Игровые файлы неполны. Файл {0} не найден. Пожалуйста, проверьте журнал вашего антивируса, добавьте игру в исключения, или смените антивирус, и переустановите игру.</value>
   </data>
   <data name="FirewallSettingTask_Description" xml:space="preserve">
-    <value>Настройка исключений Брандмауэра</value>
+    <value>Настройка исключений брандмауэра</value>
   </data>
   <data name="FirewallSettingTask_OsVersionTooLow" xml:space="preserve">
     <value>Версия Windows слишком старая. Пожалуйста, настройте Брандмауэр Windows вручную.</value>
